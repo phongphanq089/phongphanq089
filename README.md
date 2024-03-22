@@ -1,3 +1,5 @@
+![Shadir's GitHub Banner](https://res.cloudinary.com/dyp6oqixq/image/upload/v1711073709/banner-dev_kbmdng.png) 
+
 # 💫 About Me:
 🔭 I’m currently working at P33R Finance where we were incubated by Tenity and selected for AWS Startups Build Accelerator 2023.<br>🌱 I’m passionate about serverless in AWS and Web3.<br>📝 I’m aiming to write one article per week starting from November 2023.<br>🏆 I'm striving to increase my GitHub stats rating by contributing to open source.<br>⚡ Fun fact: I read books, play the piano, and sleep with my dog!
 
