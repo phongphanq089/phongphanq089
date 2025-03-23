@@ -11,7 +11,7 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/sushil-magare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://github.com/https://github.com/phongphanq089" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/phong-phan-719464201/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/https://www.linkedin.com/in/phong-phan-719464201/" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="center">Xin chào! Mình là Phong Phan. Mỗi ngày của mình gắn liền với code, debug và những thử thách công nghệ. Mình thích tự học, khám phá công nghệ mới và đặc biệt có niềm đam mê với việc giải quyết vấn đề.
 
