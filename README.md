@@ -1,32 +1,43 @@
-# Hi there, I'm Phong Phan 👋
+<p align="center">
+  <img src="https://ik.imagekit.io/htnacim0q/byphongphan.com/banner-hero-git.png" alt="Phong Phan" width="100%" />
+</p>
 
-**Frontend / Creative Developer** passionate about crafting smooth animations, intuitive UI, and high-performance web applications.
-
-[![Website](https://img.shields.io/badge/Website-byphongphan.com-181717?style=flat-square&logo=googlechrome)](https://byphongphan.com)
-[![GitHub](https://img.shields.io/badge/GitHub-phongphanq089-181717?style=flat-square&logo=github)](https://github.com/phongphanq089)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Phong_Phan-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/phong-phan-719464201)
-
----
-
-### 🚀 What I Do
-- 💻 **Focus:** Building dynamic UI, interactive experiences with **React**, **Next.js**, **GSAP**, and **Tailwind CSS**.
-- 🌱 **Learning:** Deep diving into scalable architecture & modern state management.
-- 💡 **Open to:** Challenging projects, innovative startups, and collaborative engineering teams.
-- 🌐 **Portfolio:** [byphongphan.com](https://byphongphan.com)
-
----
-
-### 🛠 Tech Stack
-
-- **Languages & Frameworks:** TypeScript, JavaScript, React, Next.js, Vue.js, Node.js, Express, NestJS
-- **Styling & Motion:** Tailwind CSS, GSAP, Framer Motion, Sass
-- **Database & Tools:** MongoDB, Git, Vite
-
----
-
-### 📊 GitHub Stats
+<h1 align="center">Phong Phan</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phongphanq089&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Phong's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phongphanq089&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
+  <b>Frontend & Creative Developer</b>
+</p>
+
+<p align="center">
+  <a href="https://byphongphan.com">Website</a> &nbsp;•&nbsp;
+  <a href="https://linkedin.com/in/phong-phan-719464201">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://github.com/phongphanq089">GitHub</a>
+</p>
+
+---
+
+### Overview
+
+Frontend Developer specializing in crafting bespoke digital experiences, high-performance web applications, and motion-driven interfaces.
+
+- **Focus:** Motion UI, design systems, and scalable client-side architecture.
+- **Approach:** Obsessed with fine details, micro-interactions, and maintainable engineering.
+- **Opportunities:** Open to select collaborations and ambitious engineering teams.
+
+---
+
+### Core Competencies
+
+- **Frontend & Interface:** React, Next.js, Vue.js, TypeScript, JavaScript
+- **Motion & Styling:** GSAP, Framer Motion, Tailwind CSS, Sass
+- **Backend & Data:** Node.js, Express, NestJS, MongoDB
+- **Workflow & Tools:** Git, Vite, Postman, Figma
+
+---
+
+### GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=phongphanq089&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9e9e9e&icon_color=ffffff&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phongphanq089&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9e9e9e" alt="Top Languages" height="150" />
 </p>
